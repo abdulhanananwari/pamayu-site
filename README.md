@@ -1,3 +1,1 @@
 # pamayu-site
-
-official web
